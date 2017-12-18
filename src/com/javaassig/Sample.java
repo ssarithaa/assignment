@@ -5,7 +5,7 @@ public class Sample {
 
 	public static void main(String[] args) {
 		Helo obj;
-		System.out.println("Hello1");
+		System.out.println("Hello Sample Test ");
 		main("as", "ds");
 	}
 
